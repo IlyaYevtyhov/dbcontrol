@@ -19,6 +19,7 @@ helpmenu = '''
 '''
 
 aprint("DBControl by TurboKoT#9280", 0.08)
+aprint("GitHub - https://github.com/IlyaYevtyhov/dbcontrol", 0.05)
 print()
 while True:
     etoken = input("Введите токен вашего Discord-Бота --> ")
