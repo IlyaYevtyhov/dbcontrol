@@ -26,10 +26,12 @@ while True:
     if etoken == "":
         os.system('cls')
         print("DBControl by TurboKoT#9280")
+        print("GitHub - https://github.com/IlyaYevtyhov/dbcontrol")
         print("ERROR: Вы не ввели токен!")
     elif len(etoken) < 20:
         os.system('cls')
         print("DBControl by TurboKoT#9280")
+        print("GitHub - https://github.com/IlyaYevtyhov/dbcontrol")
         print("ERROR: Вы ввели некоректный токен!")
     else:
         os.system('cls')
